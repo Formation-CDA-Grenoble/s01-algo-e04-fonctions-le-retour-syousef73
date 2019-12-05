@@ -1,6 +1,7 @@
 def isInside(list, element):
     # Début de ton code
-    pass
+   
+    
     # Fin de ton code
 
 
